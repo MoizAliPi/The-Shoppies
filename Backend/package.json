@@ -1,0 +1,15 @@
+{
+  "name": "shoppiestest",
+  "version": "1.0.0",
+  "description": "This is the graphql server layer on top of omdb api.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "Moiz Ali",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5"
+  }
+}
